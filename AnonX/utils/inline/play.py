@@ -63,12 +63,12 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 callback_data=f"PanelMarkup {videoid}|{chat_id}",
             ),
             InlineKeyboardButton(
-                text="◉ ᴏᴡɴᴇʀ ", url=f"https://t.me/VeNom_HaiN_HuM"
+                text="◉ ᴏᴡɴᴇʀ ", url=f"https://t.me/Awesome_RJ"
             )
         ],
         [
             InlineKeyboardButton(
-                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/FriendshipWorldGroup"
+                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/GirlsBoysXD"
             )
         ],
     ]

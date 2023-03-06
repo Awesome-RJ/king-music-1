@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://t.me/QueenAlisha_robot"> ʀᴇᴀᴅʏ-ᴛᴏ-ᴜsᴇ ʙᴏᴛ </a> •
     <a href="https://t.me/Sad_shayari_lovers"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ </a> •
-    <a href="https://t.me/FriendshipWorldGroup"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a> 
+    <a href="https://t.me/GirlsBoysXD"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a> 
 </p>
     
 # ᴀʟɪsʜᴀ ᴍᴜsɪᴄ ʙᴏᴛ
@@ -63,7 +63,7 @@
 
 ## ᴏᴡɴᴇʀ
 
-[ᴀʙʜɪᴍᴀɴʏᴜ sɪɴɢʜ ʀᴀɴᴀᴡᴀᴛ](https://t.me/venom_hain_hum) 
+[ᴀʙʜɪᴍᴀɴʏᴜ sɪɴɢʜ ʀᴀɴᴀᴡᴀᴛ](https://t.me/Awesome_RJ) 
 
 <a href="https://github.com/Team-Alisha" alt="Team-Alisha"> <img src="https://img.shields.io/badge/Abhimanyu-90302f?logo=github" /></a>  
 
